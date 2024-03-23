@@ -3,7 +3,7 @@
 # System Request : Debian 9+/Ubuntu 18.04+/20+
 # Develovers » RyyStore࿐
 # telegrup  » https://t.me/ryyvpntesti
-# telegram   » https://t.me/gemilangkinasih
+# telegram   » https://t.me/RyyVpn26
 # whatsapp   » wa.me/+6287767287284
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # RyyStore࿐
