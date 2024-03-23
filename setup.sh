@@ -1,12 +1,12 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » Gemilangkinasih࿐
-# Email      » gemilangkinasih@gmail.com
+# Develovers » RyyStore࿐
+# telegrup  » https://t.me/ryyvpntesti
 # telegram   » https://t.me/gemilangkinasih
-# whatsapp   » wa.me/+628984880039
+# whatsapp   » wa.me/+6287767287284
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# Gemilangkinasih࿐
+# RyyStore࿐
 
 Green="\e[92;1m"
 RED="\033[31m"
